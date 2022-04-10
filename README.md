@@ -13,13 +13,12 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  
-[Hello](/assets/images/spacer.png)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=31&color=000000&background=FFE809&center=true&vCenter=true&width=600&lines=Welcome+here++!;Ready+to+play+and+code+!)](https://git.io/typing-svg)
-
-  🔥 I'm **Rudy**, french **front-end developer** and **graphic designer**. I'm a hardcore video gamer and 80's lover ❤️.
- 
+  <img width="200" src="https://www.linkpicture.com/q/spacer_200.png" />
+  <br /><br />
+  <img width="600" height="50" src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=31&color=000000&background=FFE809&center=true&vCenter=true&width=600&lines=Welcome+here++!;Ready+to+play+and+code+" />
+  <br /><br />
+  🔥 I'm <strong>Rudy</strong>, french <strong>front-end developer</strong> and <strong>graphic designer</strong>. I'm a hardcore video gamer and 80's lover ❤️.
+ <br /><br /><br />
 </p>
 
 
