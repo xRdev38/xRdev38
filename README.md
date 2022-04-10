@@ -38,6 +38,17 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 ![PHP](https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-049024?style=flat-square&logo=mongodb&logoColor=white)
 
 
+## ✨  Others
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=58oga1t5j524o9093nlf4qa1y)
+
+
 ## 📫  Reach me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudy-nosile/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RudyXxdevxX)
+
+
