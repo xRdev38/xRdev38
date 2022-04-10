@@ -1,31 +1,16 @@
-name: Build and Deploy
+name: Waka Readme
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
-  build-and-deploy:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v1
-      - uses: actions/setup-node@v1 #this installs node and npm for us
+      - uses: anmol098/waka-readme-stats@master
         with:
-          node-version: '14.x'
-      - uses: actions/cache@v1 # this allows for re-using node_modules caching, making builds a bit faster.
-        with:
-          path: ~/.yarn
-          key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-      - name: Build
-        run: |
-          yarn install
-          yarn build
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: build/
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
