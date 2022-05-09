@@ -43,7 +43,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -121,7 +121,7 @@ TypeScript               4 repos             █████████░░�
 ![Chart not found](https://raw.githubusercontent.com/xRdev38/xRdev38/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 18:49:30 UTC
+ Last Updated on 09/05/2022 18:50:57 UTC
 <!--END_SECTION:waka-->
 
 
