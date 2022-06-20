@@ -49,7 +49,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 > 🏆 112 Contributions in the Year 2022
  > 
-> 📦 3.8 kB Used in GitHub's Storage 
+> 📦 3.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,7 +119,7 @@ TypeScript               4 repos             ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/xRdev38/xRdev38/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/06/2022 18:47:45 UTC
+ Last Updated on 20/06/2022 18:51:04 UTC
 <!--END_SECTION:waka-->
 
 
