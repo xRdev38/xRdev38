@@ -23,7 +23,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 
 ## 😊 What do I do
-- 💻 I'm currently working for 🐝 [Wizbii](https://github.com/wizbii)
+- 💻 I'm currently working for 🐝 [Educlever](https://git.educlever.io/)
 - 💀 I’m currently learning Front-end technologies and little bit of Back-end
 
 ## ⚒️ Tools
