@@ -43,6 +43,10 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 ## ✨  Others
 
+  <p align="left">
+    <a href="https://github.com/xRdev38/shareable-services"><img width="278" src="https://xrdev38-github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=shareable-services&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="shareable-services"></a>
+  </p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
