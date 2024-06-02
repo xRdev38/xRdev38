@@ -43,7 +43,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 ## ✨  Others
 
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=shareable-services&show_owner=true)](https://github.com/xRdev38/shareable-services)
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=shareable-services&show_owner=true&theme=dracula)](https://github.com/xRdev38/shareable-services)
 
 
 <!--START_SECTION:waka-->
