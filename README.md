@@ -50,15 +50,17 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 ## ✨  Others
 
+<img align="center" width=300px alt="Unicorn" src="https://raw.githubusercontent.com/xRdev38/static/main/unicorn.gif" />
+
 <p align="left">
 	<a href="https://github.com/xRdev38/shareable-services">
-		<img width=278 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=shareable-services&show_owner=true&theme=dracula" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=shareable-services&show_owner=true&theme=dracula" />
 	</a>
   <a href="https://github.com/xRdev38/ts-helpers">
-		<img width=278 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=ts-helpers&show_owner=true&theme=dracula" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=ts-helpers&show_owner=true&theme=dracula" />
 	</a>
   <a href="https://github.com/xRdev38/lemon">
-		<img width=278 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=lemon&show_owner=true&theme=dracula" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=lemon&show_owner=true&theme=dracula" />
 	</a>
 </p>
 
