@@ -52,6 +52,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 <img align="center" width=300px alt="Unicorn" src="https://raw.githubusercontent.com/xRdev38/static/main/unicorn.gif" />
 
+<!--
 <p align="left">
 	<a href="https://github.com/xRdev38/shareable-services">
 		<img align="center" width=278px height=160px src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=shareable-services&show_owner=true&theme=dracula" />
@@ -63,6 +64,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 		<img align="center" width=278px height=160px src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=lemon&show_owner=true&theme=dracula" />
 	</a>
 </p>
+-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
