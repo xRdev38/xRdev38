@@ -54,13 +54,13 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 <p align="left">
 	<a href="https://github.com/xRdev38/shareable-services">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=shareable-services&show_owner=true&theme=dracula" />
+		<img align="center" width=278px height=160px src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=shareable-services&show_owner=true&theme=dracula" />
 	</a>
   <a href="https://github.com/xRdev38/ts-helpers">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=ts-helpers&show_owner=true&theme=dracula" />
+		<img align="center" width=278px height=160px src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=ts-helpers&show_owner=true&theme=dracula" />
 	</a>
   <a href="https://github.com/xRdev38/lemon">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=lemon&show_owner=true&theme=dracula" />
+		<img align="center" width=278px height=160px src="https://github-readme-stats.vercel.app/api/pin/?username=xRdev38&repo=lemon&show_owner=true&theme=dracula" />
 	</a>
 </p>
 
