@@ -71,7 +71,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 **🐱 My GitHub Data** 
 
-> 📦 5.6 kB Used in GitHub's Storage 
+> 📦 5.7 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2025
  > 
@@ -135,7 +135,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2025 17:54:06 UTC
+ Last Updated on 04/06/2025 18:47:51 UTC
 <!--END_SECTION:waka-->
 
 
