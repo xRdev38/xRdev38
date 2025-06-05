@@ -142,6 +142,6 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 ## 📫  Reach me
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudy-nosile/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RudyXxdevxX)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudy-nosile/)
 
 
