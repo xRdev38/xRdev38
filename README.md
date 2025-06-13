@@ -77,7 +77,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -121,10 +121,10 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-JavaScript               6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -134,7 +134,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2025 18:47:32 UTC
+ Last Updated on 13/06/2025 18:47:23 UTC
 <!--END_SECTION:waka-->
 
 
