@@ -67,13 +67,11 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.9 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,16 +106,20 @@ Sunday                   76 commits          ███████░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
+HTML                     2 hrs               ████████░░░░░░░░░░░░░░░░░   30.77 % 
+SCSS                     1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Project Details          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 6 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+backoffice-phoenix       6 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +138,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 18:44:07 UTC
+ Last Updated on 28/08/2025 18:46:44 UTC
 <!--END_SECTION:waka-->
 
 
