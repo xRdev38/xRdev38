@@ -67,11 +67,11 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%207%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 5.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,6 +79,45 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                154 commits         ██████████████░░░░░░░░░░░   55.80 % 
+🌃 Evening                96 commits          █████████░░░░░░░░░░░░░░░░   34.78 % 
+🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Wednesday                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Thursday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Friday                   69 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Saturday                 94 commits          █████████░░░░░░░░░░░░░░░░   34.06 % 
+Sunday                   76 commits          ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -95,7 +134,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:45:20 UTC
+ Last Updated on 17/09/2025 18:45:37 UTC
 <!--END_SECTION:waka-->
 
 
