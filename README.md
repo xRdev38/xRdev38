@@ -108,16 +108,17 @@ Sunday                   76 commits          ███████░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               10 mins             ███████████████████░░░░░░   75.03 % 
+Markdown                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+backoffice-phoenix       14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +137,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2025 18:44:08 UTC
+ Last Updated on 18/10/2025 18:42:12 UTC
 <!--END_SECTION:waka-->
 
 
