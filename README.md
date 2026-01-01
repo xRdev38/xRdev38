@@ -73,7 +73,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 > 📦 6.0 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,7 +136,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:49:44 UTC
+ Last Updated on 01/01/2026 18:50:28 UTC
 <!--END_SECTION:waka-->
 
 
