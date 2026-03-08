@@ -71,7 +71,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 
 **🐱 My GitHub Data** 
 
-> 📦 6.0 kB Used in GitHub's Storage 
+> 📦 8.6 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -79,7 +79,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -123,10 +123,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               8 repos             ████████████░░░░░░░░░░░░░   47.06 % 
+JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -136,7 +137,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2026 18:54:32 UTC
+ Last Updated on 08/03/2026 18:55:57 UTC
 <!--END_SECTION:waka-->
 
 
