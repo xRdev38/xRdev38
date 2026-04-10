@@ -67,7 +67,7 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%205%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -108,16 +108,20 @@ Sunday                   76 commits          ███████░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 mins              ███████████████████░░░░░░   75.95 % 
+YAML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+SourceMap                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Project Details          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+platform-libs            10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,7 +141,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 19:44:22 UTC
+ Last Updated on 10/04/2026 19:25:35 UTC
 <!--END_SECTION:waka-->
 
 
