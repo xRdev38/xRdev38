@@ -108,20 +108,16 @@ Sunday                   76 commits          ███████░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               7 mins              ███████████████████░░░░░░   75.95 % 
-YAML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-SourceMap                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Project Details          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-platform-libs            10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +137,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2026 19:42:03 UTC
+ Last Updated on 17/04/2026 19:35:57 UTC
 <!--END_SECTION:waka-->
 
 
