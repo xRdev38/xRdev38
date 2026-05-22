@@ -67,8 +67,6 @@ I'm Rudy, Front-end development and graphic designer. I'm a hardcore video gamer
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2022%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 7.3 kB Used in GitHub's Storage 
@@ -137,7 +135,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xRdev38/xRdev38/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:17:28 UTC
+ Last Updated on 22/05/2026 20:16:49 UTC
 <!--END_SECTION:waka-->
 
 
